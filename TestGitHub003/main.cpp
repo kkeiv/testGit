@@ -1,6 +1,7 @@
-void dopFunc(int ii)
+int dopFunc(int ii)
 {
 	ii++;
+	return ii;
 };
 
 int main()
